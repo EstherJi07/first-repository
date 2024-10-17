@@ -2,9 +2,9 @@
 add new contents2
 # AIFFEL Data Scientist Campus Code Peer Review Templete
 
-코더 : [코드 작성자]
+코더 : [지은현]
 
-리뷰어 : [리뷰어]
+리뷰어 : [이영준]
 
 ---
 
